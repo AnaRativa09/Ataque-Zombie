@@ -17,8 +17,8 @@ ATAQUE ZOMBIE permite que el usuario identifique cuál es su probabilidad de sup
 <img width="600px" src="src/images/README/AZ_VIEW1_INICIO.jpg">
 <img width="600px" src="src/images/README/AZ_VIEW2_CATEGORÍAS.jpg">
 <img width="600px" src="src/images/README/AZ_VIEW3_PREGUNTAS">
-<img width="600px" src="src/images/README/AZ_VIEW4_RESULTADO NEGATIVO.jpg">
-<img width="600px" src="src/images/README/AZ_VIEW5_RESULTADO POSITIVO.jpg">
+<img width="600px" src="src/images/README/AZ_VIEW4_RESULTADO-NEGATIVO.jpg">
+<img width="600px" src="src/images/README/AZ_VIEW5_RESULTADO-POSITIVO.jpg">
 <img width="600px" src="src/images/README/AZ_VIEW6_SALIR.jpg">
 
 ### Construído con

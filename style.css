@@ -1,0 +1,105 @@
+* {
+    margin:0;
+    padding:0;
+}
+    
+body {
+    background: linear-gradient(#170d30,#ffa500);
+    color: #271e4c;
+    font-family: Gloria Hallelujah;
+    text-align: center;
+}
+
+main {
+    min-height: 100vh;
+    background: url(images/azBgBottom.png) bottom repeat-x fixed; /*Fijar imagen de fondo abajo, se repite en eje x*/
+}
+
+.imgQuestion {
+    margin-top: 100px;
+    height: 20%;
+    width: 20%;
+    min-width: 200px;
+} 
+
+input {
+    background-color: rgba(255, 255, 255, 0.3);;
+    border: 2px solid #4d307a;
+    border-radius: 50px;
+    font-size: 16px;
+    margin-bottom: 20px;
+    padding: 10px 20px;
+    outline: none;
+    height: 40px;
+    color: #4d307a;
+}
+
+input::placeholder {color: white;}
+
+.rightAnswer, .wrongAnswer, .button {
+    background-color: #3a8368;
+    border: none;
+    border-radius: 12px;
+    color: white;
+    font-family: Gloria Hallelujah;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    margin: 0 20px;
+    margin-top: 15px;
+    cursor: pointer;
+    transition-duration: 0.4s;
+    height: 60px;
+    width: 380px;
+}
+    
+.rightAnswer:hover, .wrongAnswer:hover, .button:hover { /*Hover para cuando el cursor esté encima de él*/
+    background-color: #4CAF50;
+    color: white;
+}
+
+.buttonPlay {
+    background-color: #3a8368;
+    border: none;
+    border-radius: 12px;
+    color: white;
+    font-family: Gloria Hallelujah;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    transition-duration: 0.4s;
+}
+
+.buttonPlay:hover {
+    background-color: #4CAF50;
+    color: white;
+}
+
+#name {
+    font-size: 60px;
+    color: #ffa500;
+    margin-bottom: 25px;
+}
+
+h1 {color: #ffa500;}
+
+h2 {color: white;}
+
+#categories {margin-top: 180px;}
+
+.choose {
+    color: white;
+    margin-bottom: 50px;
+}
+
+.imgCongratulations {
+    width: 20%;
+    height: 20%;
+    margin-top: 150px;
+}

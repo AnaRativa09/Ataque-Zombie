@@ -14,12 +14,12 @@ Proyecto de preadmisión para el ingreso a Laboratoria. Realizado por Dulce Merc
 
 ATAQUE ZOMBIE permite que el usuario identifique cuál es su probabilidad de supervivencia ante un ataque zombie. Evalua las acciones que él realiza para mantenerse con vida y las armas que utilizaría para defenderse.
 
-<img width="600px" src="src/images/README/AZ_VIEW1_INICIO.jpg">
-<img width="600px" src="src/images/README/AZ_VIEW2_CATEGORÍAS.jpg">
-<img width="600px" src="src/images/README/AZ_VIEW3_PREGUNTAS">
-<img width="600px" src="src/images/README/AZ_VIEW4_RESULTADO-NEGATIVO.jpg">
-<img width="600px" src="src/images/README/AZ_VIEW5_RESULTADO-POSITIVO.jpg">
-<img width="600px" src="src/images/README/AZ_VIEW6_SALIR.jpg">
+<img width="600px" src="src/images/README/AZ_VIEW1.jpg">
+<img width="600px" src="src/images/README/AZ_VIEW2.jpg">
+<img width="600px" src="src/images/README/AZ_VIEW3.jpg">
+<img width="600px" src="src/images/README/AZ_VIEW4.jpg">
+<img width="600px" src="src/images/README/AZ_VIEW5.jpg">
+<img width="600px" src="src/images/README/AZ_VIEW6.jpg">
 
 ### Construído con
 1. Html
